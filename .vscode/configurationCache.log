@@ -1,0 +1,1 @@
+{"buildTargets":["build","migrate-down","migrate-up","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
